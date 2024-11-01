@@ -1,0 +1,6 @@
+/*!
+ * iframe block
+ *
+ * @handle taro-iframe-block-editor
+ * @deps wp-i18n, wp-components, wp-blocks, wp-block-editor, wp-server-side-render, wp-data, wp-element
+ */
